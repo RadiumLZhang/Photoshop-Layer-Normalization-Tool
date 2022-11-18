@@ -1,6 +1,6 @@
 /*
 <javascriptresource>
-<name>Normalization Tool for PSD File/name>
+<name>Photoshop-Layer-Normalization-Tool/name>
 <menu>auto</menu>
 <enableinfo>true</enableinfo>
 <eventid>a8d5ff70-d981-11eb-b8bc-0242ac130003</eventid>
